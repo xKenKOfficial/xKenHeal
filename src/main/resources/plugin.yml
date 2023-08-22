@@ -1,0 +1,13 @@
+name: xKenHeal
+api-version: 1.13
+version: '${project.version}'
+main: com.github.xKenKOfficial.Heal.Basic.Main
+prefix: xKenHeal
+author: xKenKOfficial
+authors: [xKenKOfficial]
+description: Plugin do leczenia Graczy na serwerze.
+website: https://discord.gg/2HDuZrEFTg
+
+commands:
+  heal:
+  feed:

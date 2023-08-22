@@ -1,0 +1,32 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenHeal"
+
+# Tutaj mozna ustawic wiadomosc o braku permisji:
+no_permission: "&4Blad&8: &cNie masz dostepu do tej komendy!"
+
+# Tutaj mozna ustawic wiadomosc poprawnego uzycia komendy /feed:
+feed_command_usage: "&8[&bUzycie&8] &7Poprawne uzycie&8: &b/feed (nick)"
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz sie nakarmil:
+feed_player: "&8[&aINFO&8] &aPomyslnie zdolales sie nakarmic."
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz zostal nakarmiony przez administratora:
+player_fed_by_admin: "&8[&aINFO&8] &7Zostales nakarmiony przez administratora&8: &a{ADMIN}&7."
+
+# Tutaj mozna ustawic wiadomosc, jesli administrator nakarmil gracza:
+admin_fed_the_player: "&8>> &7Pomyslnie nakarmiles gracza&8: &a{PLAYER}&7."
+
+# Tutaj mozna ustawic wiadomosc poprawnego uzycia komendy /heal:
+heal_command_usage: "&8[&bUzycie&8] &7Poprawne uzycie&8: &b/heal (nick)"
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz sie uleczyl:
+heal_player: "&8[&aINFO&8] &aPomyslnie zdolales sie uleczyc."
+
+# Tutaj mozna ustawic wiadomosc, jesli gracz zostal uleczony przez administratora:
+player_heal_by_admin: "&8[&aINFO&8] &7Zostales uleczony przez administratora&8: &a{ADMIN}&7."
+
+# Tutaj mozna ustawic wiadomosc, jesli administrator uleczyl gracza:
+admin_heal_the_player: "&8>> &7Pomyslnie uleczyles gracza&8: &a{PLAYER}&7."
+
+# Tutaj mozna wlaczyc i wylaczyc informacje o pluginie:
+plugin_info: true
